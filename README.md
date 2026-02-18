@@ -1,4 +1,4 @@
-# 藤井 風 – 死ぬのがいいわ (Fujii Kaze Stadium Live "Feelin' Good")
+# Fujii Kaze – 死ぬのがいいわ (Fujii Kaze Stadium Live "Feelin' Good")
 
 > **歌詞登録ステータス：同期歌詞あり**
 
