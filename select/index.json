@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "死ぬのがいいわ (Fujii Kaze Stadium Live \"Feelin' Good\")",
+  "base_artist": "藤井 風",
+  "createdAt": "2026-02-18T08:43:45.793127Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "死ぬのがいいわ",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/01_死ぬのがいいわ_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "死ぬのがいいわ",
+      "artist": "藤井風",
+      "has_synced": true,
+      "path": "select/02_死ぬのがいいわ_藤井風.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "死ぬのがいいわ",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/03_死ぬのがいいわ_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "死ぬのがいいわ",
+      "artist": "藤井風",
+      "has_synced": true,
+      "path": "select/04_死ぬのがいいわ_藤井風.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shinunoga E-Wa (English Cover)【Will Stetson】「死ぬのがいいわ」",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/05_Shinunoga_E-Wa_(English_Cover)【Will_Stetson】「死ぬのがいいわ」_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shinunoga E-Wa - 死ぬのがいいわ",
+      "artist": "Fuji Kaze",
+      "has_synced": true,
+      "path": "select/06_Shinunoga_E-Wa_-_死ぬのがいいわ_Fuji_Kaze.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死ぬのがいいわ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_死ぬのがいいわ_藤井_風.txt"
+    }
+  ]
+}
