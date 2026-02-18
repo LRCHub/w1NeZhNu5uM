@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "死ぬのがいいわ (Fujii Kaze Stadium Live \"Feelin' Good\")",
-  "base_artist": "藤井 風",
-  "createdAt": "2026-02-18T08:44:27.738589Z",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2026-02-18T08:44:49.504424Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,6 +59,70 @@
       "artist": "藤井 風",
       "has_synced": false,
       "path": "select/pl_01_死ぬのがいいわ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "死ぬのがいいわ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_死ぬのがいいわ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "死ぬのがいいわ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_死ぬのがいいわ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "死ぬのがいいわ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_死ぬのがいいわ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "死ぬのがいいわ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_05_死ぬのがいいわ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "死ぬのがいいわ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_06_死ぬのがいいわ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "死ぬのがいいわ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_07_死ぬのがいいわ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "死ぬのがいいわ",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_08_死ぬのがいいわ_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "死ぬのがいいわ (Fujii Kaze Stadium Live \"Feelin' Good\")",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_09_死ぬのがいいわ_(Fujii_Kaze_Stadium_Live__Feelin'_Good_)_藤井_風.txt"
     }
   ]
 }
